@@ -1,0 +1,13 @@
+/* .container{
+    height: 800px;
+    width: 800px;
+    background-color: salmon;
+} */
+.btnn{
+    border-radius: 12px;
+    /* background-color: slategrey; */
+    margin-top: 20%;
+    margin-left: 50%;
+    height: 46px;
+    width: 100px;
+}
